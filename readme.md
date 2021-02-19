@@ -30,9 +30,6 @@ This project have three principal file: **clone.py**, **search.py** and **main.p
    - It's a facilitator. It's run the two previous scripts (**clone.py** and **search.py**) in the sequence.
     
 
-
-
-
-## 
-
-Enjoy 😎 God bless you 🙌.
+<h4 align='end'> 
+	Enjoy 😎 God bless you 🙌.
+</h4>
