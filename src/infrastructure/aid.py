@@ -1,7 +1,7 @@
 import os
 
 default_w_to_search = 'staticfiles'
-default_f_to_search = os.path.abspath('.')
+default_f_to_search = os.path.abspath('')
 repositories_file = './repositories.csv'
 
 

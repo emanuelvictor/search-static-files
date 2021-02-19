@@ -3,8 +3,8 @@ import sys
 import traceback
 from datetime import datetime
 from git import Repo
-from application.view.loading import loading
-from infrastructure.aid import repositories_file, get_folder_to_clone_label, default_f_to_search
+from src.application.view.loading import loading
+from src.infrastructure.aid import repositories_file, get_folder_to_clone_label, default_f_to_search
 
 def clone(username, password, destiny, leave_after):
     print(f"Starting clone at ", datetime.now().strftime("%H:%M:%S"))

@@ -1,6 +1,6 @@
 import sys
 from clone import clone
-from infrastructure.aid import get_folder_to_clone_label, get_folder_to_search_label, get_word_to_search_label, \
+from src.infrastructure.aid import get_folder_to_clone_label, get_folder_to_search_label, get_word_to_search_label, \
     default_f_to_search, default_w_to_search
 import getpass
 from search import search

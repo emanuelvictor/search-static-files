@@ -2,9 +2,9 @@ import os
 import sys
 import traceback
 from datetime import datetime
-from application.view.loading import loading
-from domain.entity.dependency import Dependency
-from infrastructure.aid import get_folder_to_search_label, get_word_to_search_label, default_f_to_search, \
+from src.application.view.loading import loading
+from src.domain.entity.dependency import Dependency
+from src.infrastructure.aid import get_folder_to_search_label, get_word_to_search_label, default_f_to_search, \
     default_w_to_search
 
 
