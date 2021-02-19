@@ -1,0 +1,1 @@
+var staticfiles = 0

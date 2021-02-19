@@ -1,0 +1,7 @@
+word1
+word2
+word3
+staticfiles
+word5
+word6
+word7/staticfiles/word8
