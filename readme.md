@@ -1,12 +1,12 @@
-<h2>Introduction</h2>
+##Introduction
 This project has a script how execute the clone of projects from git and search a specific expression defined by user in the content  newly downloaded.
  
-<h2>Environment Configuration 🚧</h2> 
+##Environment Configuration 🚧 
 1) **First**  you must prepare the environment. How the script is written in **python**, you will need install them in your local station. 
     - The installation and configuration of the python is simple and uncomplicated, do this as instructs in this [link](www.python.org);
 2) If you has correctly installed the python, install the library GitPython, do this as this [link] instruct.
 
-<h2>Execution  🚀</h2>
+##Execution  🚀
 This project have three principal file: **clone.py**, **search.py** and **main.py**.
 1) **clone.py**  (``python clone.py``):
     - Clone all projects inserted in a file ".csv" named as "*repositories.csv*". So, to defined who repositories you want to clone, just update this file.
