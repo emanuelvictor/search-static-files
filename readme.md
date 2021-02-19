@@ -1,4 +1,4 @@
-##Introduction
+#Introduction
 This project has a script how execute the clone of projects from git and search a specific expression defined by user in the content  newly downloaded.
  
 ##Environment Configuration 🚧 
