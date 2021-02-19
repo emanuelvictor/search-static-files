@@ -10,7 +10,7 @@ class Dependency:
         self.file = file
         self.line = line
         if len(content) > 800:
-            self.content = 'Line is too large'
+            self.content = 'Content of this line is too large'
         else:
             self.content = content
 
