@@ -4,7 +4,6 @@ from src.infrastructure.aid import get_folder_to_clone_label, get_folder_to_sear
     default_f_to_search, default_w_to_search
 import getpass
 from search import search
-
 if __name__ == '__main__':
     # variables to clone script
     username = input(f'Username*: ')
